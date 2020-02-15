@@ -1,0 +1,36 @@
+ABOUT
+Software passionate currently studying Software Engineering at the Polytechnic 
+University of Madrid. Loves challenges, playing with memory and reverse engineering 
+binaries. Always willing to learn and open to new ideas and technologies!
+
+SKILLS
+C++
+I picked C++ as my main programming language very early on and have some
+experience with sockets. Adept in Object Oriented Programming and
+still learning about the Standard Library and 3D graphics.
+
+Node.js
+Experience with the back-end development of restful APIs and its protocols.
+Currently learning to combine it with socket.io to create real-time, bidirectional 
+and event-based communications between the browser and the server.
+
+x86
+Some experience reverse engineering binaries and different applications including
+videogames, DLLs, crackmes and more. Very handy in order to debug and optimize
+programs.
+
+LANGUAGES
+English
+Picking up English early on in my life was an important step. I have studied
+the International Baccalaureate in Switzerland, at the Zurich International
+School, which has enhanced my written and spoken abilities. I have also learnt
+about different cultures, and improved my communication and cooperation skills.
+
+Español
+Nací en España, y hasta el día de hoy he vivido la mayor parte de mi vida aquí.
+Ser capáz de hablar español es una cualidad interesante, ya que compone tanto España 
+como todo América del Sur. He trabajado traduciendo páginas web, y desde joven he
+estudiado la literatura y la gramática del idioma.
+
+日本語
+私はアジアの言語が好きです。　私に日本語はとても面白かったです。　だから現時点で、私は日本語を勉強します。
